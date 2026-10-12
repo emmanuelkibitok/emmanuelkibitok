@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Kibitok 👋
 
-<!--
-**emmanuelkibitok/emmanuelkibitok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional and software developer based in Kenya.
 
-Here are some ideas to get you started:
+I build web applications, backend systems, and APIs that solve
+practical problems for businesses and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Web applications and management systems
+- Backend development and API integrations
+- Authentication and database design
+- Community-focused technology projects
+
+## Technologies
+PHP • MySQL • JavaScript • Git • GitHub
+
+## Featured projects
+- [MajiLink](https://github.com/emmanuelkibitok/majilink) —
+  Water delivery, borehole discovery, and outage reporting.
